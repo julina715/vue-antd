@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"nextIndex": 22,
+	"blockSize": 4096,
+	"logSize": 2097152,
+	"map": {
+		"fileDependencies": {
+			"key": "fileDependencies",
+			"size": 85006,
+			"start": 0,
+			"blocks": 21
+		},
+		"contextDependencies": {
+			"key": "contextDependencies",
+			"size": 81,
+			"start": 21,
+			"blocks": 1
+		}
+	}
+}
